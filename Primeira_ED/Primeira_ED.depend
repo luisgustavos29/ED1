@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723930996 source:c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\primeira_ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

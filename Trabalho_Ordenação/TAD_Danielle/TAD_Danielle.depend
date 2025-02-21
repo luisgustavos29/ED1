@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1727397079 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\trabalho_ordenação\tad_danielle\lladae2d.c
+	<stdio.h>
+	<stdlib.h>
+	"lladae2d.h"
+
+1727306686 c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\trabalho_ordenação\tad_danielle\lladae2d.h
+
+1726941421 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\trabalho_ordenação\tad_danielle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lladae2d.h"
+

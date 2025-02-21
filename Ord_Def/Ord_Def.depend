@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1728416815 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\ord_def\lladae2.c
+	<stdio.h>
+	<stdlib.h>
+	"lladae2.h"
+
+1728415417 c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\ord_def\lladae2.h
+
+1728416463 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\ord_def\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lladae2.h"
+
