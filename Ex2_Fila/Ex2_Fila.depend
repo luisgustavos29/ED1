@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728579195 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\ex2_fila\main.c
+	<stdio.h>
+	"fila2.h"
+
+1728579195 c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\ex2_fila\fila2.h
+
+1728579195 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\ex2_fila\fila2.c
+	<stdio.h>
+	"fila2.h"
+
