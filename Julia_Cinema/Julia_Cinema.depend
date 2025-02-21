@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1726021795 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\julia_cinema\julia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"julia.h"
+
+1726021567 c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\julia_cinema\julia.h
+	<stdbool.h>
+
+1726021795 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\julia_cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"julia.h"
+
