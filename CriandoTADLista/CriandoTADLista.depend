@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1724609358 source:c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\criandotadlista\lista_poetas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_poetas.h"
+
+1724532970 c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\criandotadlista\lista_poetas.h
+
+1724533058 source:c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\criandotadlista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_poetas.h"
+
+1726001373 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\criandotadlista\lista_poetas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_poetas.h"
+
+1726061672 c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\criandotadlista\lista_poetas.h
+
+1726001121 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\criandotadlista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lista_poetas.h"
+

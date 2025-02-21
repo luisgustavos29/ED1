@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1724194356 source:c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\ex.edlista\llaeas.c
+	<stdio.h>
+	<stdlib.h>
+	"llaeas.h"
+
+1724194356 c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\ex.edlista\llaeas.h
+
+1724194427 source:c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\ex.edlista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"llaeas.h"
+	<string.h>
+	<locale.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723848855 source:c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\clientedoponto\ponto.c
+	<stdlib.h>
+	<math.h>
+	"ponto.h"
+
+1723848855 c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\clientedoponto\ponto.h
+
+1723848981 source:c:\users\luisg\desktop\lg7\facul\estrutura de dados\exercicios_entregas\clientedoponto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1726003721 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\entrega_tad_lladae\lladae.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lladae.h"
+
+1726003721 c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\entrega_tad_lladae\lladae.h
+
+1726003721 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\entrega_tad_lladae\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lladae.h"
+

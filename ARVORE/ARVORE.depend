@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730679398 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1730679423 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\arvore\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1730679398 c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\arvore\arvore.h
+

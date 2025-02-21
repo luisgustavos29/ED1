@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1726015176 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\alterando_tad\lista_poeta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_poetas.h"
+
+1726015176 c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\alterando_tad\lista_poetas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1726015176 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\2024-01\estrutura de dados i\exercícios entrega\alterando_tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_poetas.h"
+
+1726066579 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\alterando_tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lista_poetas.h"
+
+1726062029 c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\alterando_tad\lista_poetas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1726065993 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\alterando_tad\lista_poeta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_poetas.h"
+
