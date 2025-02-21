@@ -1,0 +1,4 @@
+Saiu: Charlie, Número: 3
+Saiu: Bob, Número: 2
+Saiu: Diana, Número: 4
+Sobrou: Alice, Número: 1

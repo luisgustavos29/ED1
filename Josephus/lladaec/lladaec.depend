@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1726708089 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\josephus\lladaec\lladaec.c
+	<stdio.h>
+	<stdlib.h>
+	"lladaec.h"
+
+1726754977 c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\josephus\lladaec\lladaec.h
+
+1726708089 source:c:\users\luisg\desktop\-\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\josephus\lladaec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lladaec.h"
+
+1726843413 source:c:\users\luisg\desktop\lg7\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\josephus\lladaec\lladaec.c
+	"lladaec.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1726841180 c:\users\luisg\desktop\lg7\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\josephus\lladaec\lladaec.h
+
+1726842350 source:c:\users\luisg\desktop\lg7\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\josephus\lladaec\main.c
+	"lladaec.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

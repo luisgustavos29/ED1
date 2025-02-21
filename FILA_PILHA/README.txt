@@ -1,0 +1,2 @@
+Para testes ns estruturas de fila e pilha estáticas -> Alterar o valor dos elementos no arquivo .h definidos no MAX.
+Para testes ns estruturas de fila e pilha dinâmicas -> Alterar o valor dos elementos na main dentro dos loops for de inserção e remoção.

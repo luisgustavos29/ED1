@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1730092898 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\pilhadinamicaencadeada\padae.c
+	<stdio.h>
+	<stdlib.h>
+	"padae.h"
+
+1730092898 c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\pilhadinamicaencadeada\padae.h
+
+1730154865 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\pilhadinamicaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"padae.h"
+

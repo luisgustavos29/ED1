@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730090786 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\filaencadeada\fila_encadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_encadeada.h"
+
+1730090786 c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\filaencadeada\fila_encadeada.h
+
+1730152631 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\filaencadeada\main.c
+	<stdio.h>
+	<time.h>
+	"fila_encadeada.h"
+

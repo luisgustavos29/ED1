@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730143667 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\filaestaticacircular\fila_cr7.c
+	<stdio.h>
+	"fila_cr7.h"
+
+1730143667 c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\filaestaticacircular\fila_cr7.h
+
+1730134653 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\filaestaticacircular\main.c
+	<stdio.h>
+	<time.h>
+	"fila_cr7.h"
+

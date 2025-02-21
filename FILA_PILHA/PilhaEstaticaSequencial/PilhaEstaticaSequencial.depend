@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730092337 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\pilhaestaticasequencial\paeas.c
+	<stdio.h>
+	"paeas.h"
+
+1730154332 c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\pilhaestaticasequencial\paeas.h
+
+1730092287 source:c:\users\luisg\desktop\danger\sistemas de informação ufu-mc\matérias 2º semestre 2024\estrutura de dados i\exercicios_entregas\fila_pilha\pilhaestaticasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"paeas.h"
+
